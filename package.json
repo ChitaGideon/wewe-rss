@@ -18,5 +18,6 @@
     "start:web": "pnpm --filter web start",
     "fmt": "prettier --write .",
     "fmt.check": "prettier --check ."
-  }
+  },
+   "packageManager": "pnpm@8.6.1"
 }
